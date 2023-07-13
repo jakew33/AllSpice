@@ -9,7 +9,7 @@
           <div class="card">
             <!-- <h1>{{recipe.title}}</h1> -->
             {{ 'HELLO ABDUL' }}
-          </div>
+          </div>gjhj
         </div>
       </div>
     </div>
